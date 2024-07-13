@@ -20,7 +20,7 @@ Enjoy the game!
 - If you encounter a "file not found" error, make sure you're in the correct directory and that the file name matches exactly (including dashes or underscores).
 - If `python` doesn't work, try `python3` instead, or vice versa.
 
-- ## How to Play
+## How to Play
 1. Think of an animal or vegetable from the given options.
 2. Answer the yes/no questions presented by the game.
 3. See if the computer can guess your choice!
